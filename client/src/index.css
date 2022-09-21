@@ -3,5 +3,6 @@ body {
     background-image: url("./images/hd.png");
     
     background-repeat: no-repeat;
-    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
 }
